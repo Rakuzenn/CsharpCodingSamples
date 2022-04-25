@@ -11,9 +11,9 @@ namespace String_manipulation
         static void Main(string[] args)
         {
             // define few variables
-            int age = 31;
-            string name = "Alfonso";
-            string job = "Software Developer";
+            int age = 29;
+            string name = "Ambrosio";
+            string job = "Trash man";
 
             // string concatenation
             Console.WriteLine("String concatenation");
