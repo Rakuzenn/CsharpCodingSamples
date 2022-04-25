@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6a1b16d7-8159-48ed-a6ab-fc0c43548da8": {
+      "ProjectGuid": "6a1b16d7-8159-48ed-a6ab-fc0c43548da8",
+      "DisplayName": "String manipulation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
